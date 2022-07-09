@@ -1,3 +1,1 @@
-# ccmbd
-# ccmbd
-# ccmbd
+C compiler made by Dylan
